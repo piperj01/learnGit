@@ -99,3 +99,107 @@
 2013-10-09 14:12:37,958 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
 2013-10-09 14:12:37,958 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
 2013-10-09 14:12:37,958 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 20:56:37,432 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 20:56:37,461 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 20:56:37,466 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 20:56:37,466 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 20:56:37,466 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 20:56:37,466 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 20:56:37,478 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 20:56:37,480 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 20:56:37,480 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 20:56:37,480 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 20:56:37,480 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 20:56:37,480 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:02:25,788 INFO main com.piper.demo.TryIt - Testing objects to logger
+2013-10-21 21:02:25,790 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:02:25,791 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:02:25,793 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:02:25,794 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:10:54,228 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:10:54,230 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:10:54,234 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:10:54,234 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:10:54,234 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:10:54,235 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:10:54,276 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:10:54,278 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:10:54,278 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:10:54,278 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:10:54,278 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:10:54,278 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:11:09,787 INFO main com.piper.demo.TryIt - Testing objects to logger
+2013-10-21 21:11:09,791 INFO main com.piper.demo.TryIt - The original string is: []
+2013-10-21 21:11:09,791 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:11:09,793 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:11:09,793 INFO main com.piper.demo.TryIt - Testing object time total is: []
+2013-10-21 21:11:09,794 INFO main com.piper.demo.TryIt - The original string is: []
+2013-10-21 21:11:09,794 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:11:09,795 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:11:09,795 INFO main com.piper.demo.TryIt - Testing primitives time total is: []
+2013-10-21 21:18:41,856 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:18:41,858 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:18:41,862 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:18:41,862 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:18:41,862 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:18:41,862 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:18:41,875 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:18:41,876 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:18:41,876 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:18:41,876 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:18:41,877 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:18:41,877 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:18:54,632 INFO main com.piper.demo.TryIt - Testing objects to logger
+2013-10-21 21:18:54,636 INFO main com.piper.demo.TryIt - The original string is: asdad
+2013-10-21 21:18:54,636 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:18:54,638 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:18:54,638 INFO main com.piper.demo.TryIt - Testing object time total is: 5533944
+2013-10-21 21:18:54,639 INFO main com.piper.demo.TryIt - The original string is: asdad
+2013-10-21 21:18:54,639 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:18:54,640 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:18:54,640 INFO main com.piper.demo.TryIt - Testing primitives time total is: 2124153
+2013-10-21 21:22:04,089 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:22:04,091 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:22:04,095 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:22:04,096 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:22:04,096 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:22:04,096 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:22:04,109 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:22:04,110 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:22:04,110 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:22:04,110 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:22:04,111 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:22:04,111 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:30:04,974 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:30:04,976 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:30:04,980 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:30:04,980 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:30:04,980 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-21 21:30:04,980 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-21 21:30:04,993 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:30:04,994 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:30:04,994 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:30:04,995 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-21 21:30:04,995 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-21 21:30:04,995 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-28 20:48:55,164 INFO main com.piper.demo.TryIt - Testing objects to logger
+2013-10-28 20:48:55,200 INFO main com.piper.demo.TryIt - The original string is: asdad
+2013-10-28 20:48:55,201 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-28 20:48:55,271 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-28 20:48:55,272 INFO main com.piper.demo.TryIt - Testing object time total is: 74691482
+2013-10-28 20:48:55,273 INFO main com.piper.demo.TryIt - The original string is: asdad
+2013-10-28 20:48:55,273 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-28 20:48:55,274 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-28 20:48:55,274 INFO main com.piper.demo.TryIt - Testing primitives time total is: 2168293
+2013-10-28 20:51:27,462 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-28 20:51:27,464 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-28 20:51:27,468 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-28 20:51:27,468 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-28 20:51:27,468 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Start
+2013-10-28 20:51:27,468 INFO main com.piper.demo.stringDuplicates.StringDupObject - StringDupObjects.getDuplicateCounts: Finish
+2013-10-28 20:51:27,481 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-28 20:51:27,482 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-28 20:51:27,482 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-28 20:51:27,483 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
+2013-10-28 20:51:27,508 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Start
+2013-10-28 20:51:27,508 INFO main com.piper.demo.stringDuplicates.StringDupPrimitive - StringDupPrimitives.getDuplicateCounts: Finish
